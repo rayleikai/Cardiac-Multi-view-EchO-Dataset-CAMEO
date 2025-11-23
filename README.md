@@ -5,10 +5,5 @@ To reproduce the view classification experiments using this dataset, please foll
 This ensures that all models are evaluated under the same benchmark settings and that the results remain comparable across studies.
 
 If you use this dataset in your research or publications, please cite the following paper:
-@data{kvaz-eh57-25,
-doi = {10.21227/kvaz-eh57},
-url = {https://dx.doi.org/10.21227/kvaz-eh57},
-author = {Shuenn-Yuh Lee and Kai-Ze Lei and Ju-Yi Chen and Chun-Rong Huang},
-publisher = {IEEE Dataport},
-title = {Descriptor: Cardiac Multi-view EchO Dataset (CAMEO)},
-year = {2025} }
+
+Shuenn-Yuh Lee, Kai-Ze Lei, Ju-Yi Chen, Chun-Rong Huang, "Descriptor: Cardiac Multi-view EchO Dataset (CAMEO)", IEEE Dataport, August 15, 2025, doi:10.21227/kvaz-eh57
