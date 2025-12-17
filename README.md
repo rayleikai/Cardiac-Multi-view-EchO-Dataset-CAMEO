@@ -6,4 +6,4 @@ This ensures that all models are evaluated under the same benchmark settings and
 
 If you use this dataset in your research or publications, please cite the following paper:
 
-Shuenn-Yuh Lee, Kai-Ze Lei, Ju-Yi Chen, Chun-Rong Huang, "Descriptor: Cardiac Multi-view EchO Dataset (CAMEO)", IEEE Dataport, August 15, 2025, doi:10.21227/kvaz-eh57
+Shuenn-Yuh Lee, Kai-Ze Lei, Ju-Yi Chen, Chun-Rong Huang, "Descriptor: Cardiac Multi-view EchO Dataset (CAMEO)", accepted by IEEE Data Descriptions, 2025, and the dataset is available at IEEE Dataport, August 15, 2025, doi:10.21227/kvaz-eh57.
