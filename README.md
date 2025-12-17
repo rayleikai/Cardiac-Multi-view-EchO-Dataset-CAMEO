@@ -1,5 +1,6 @@
 # Cardiac-Multi-view-EchO-Dataset-CAMEO
-The source code and scripts for dataset visualization and training/testing split are publicly available
+![image](https://github.com/rayleikai/Cardiac-Multi-view-EchO-Dataset-CAMEO/blob/main/CAMEO_Banner.png)
+The source code and scripts for the dataset visualization and training/testing split are publicly available
 
 To reproduce the view classification experiments using this dataset, please follow the dataset protocol strictly.
 This ensures that all models are evaluated under the same benchmark settings and that the results remain comparable across studies.
